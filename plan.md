@@ -3,18 +3,19 @@ wed 5 [today]
     - look for fonts + colors + add wireframes + add pictures + find componets to use
 
     [fonts-(2)]
-        -
-        -
+        - [for title/ h1] <link href="https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap" rel="stylesheet"> [css] font-family: 'Rubik Mono One', sans-serif;
+        - [for body p] <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" [css] rel="stylesheet"> font-family: 'Delius', cursive;
 
     [colors-(5)]
-        -
-        -
-        -
-        -
-        -
+        - F1F0EC
+        - 8E7C80
+        - A59FC5
+        - 93448C
+        - 5D3B43
 
     [componets-(1)]
         - nav bar
+        - drop down
 
 thurs 6 - thurs 13
     - add key componets/rough layout
@@ -31,4 +32,3 @@ mon 1 - fri 12
     - more picures + rearange some things + get some extra ideas from others
     [any-other-ideas-to-add]
     -
-    
