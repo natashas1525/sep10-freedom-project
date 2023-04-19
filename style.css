@@ -5,6 +5,12 @@
     text-align: right;
 }
 
+#margin-con {
+    margin-top: 400px;
+    margin-bottom: 500px;
+}
+
 .col-sm-3 {
     background-color: lightgrey;
 }
+
