@@ -1,6 +1,10 @@
 
 #three {
     padding-top: 400px;
+    padding-bottom: 500px;
     text-align: right;
 }
 
+.col-sm-3 {
+    background-color: lightgrey;
+}
