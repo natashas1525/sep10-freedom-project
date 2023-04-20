@@ -10,8 +10,12 @@
     margin-top: 400px;
     margin-bottom: 500px;
 }
+#margin-con {
+    margin-top: 400px;
+    margin-bottom: 500px;
+}
 
-.col-md-6 {
+.col-md-6 .col-md-3{
     background-color: grey;
 
 }
