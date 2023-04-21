@@ -17,9 +17,9 @@
 }
 
 .right {
-    align: right
+    text-align: right;
 }
 
 .left{
-    a
+    text-align: left;
 }
