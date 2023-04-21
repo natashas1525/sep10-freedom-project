@@ -1,5 +1,5 @@
 
-#three {
+#title {
     padding-top: 400px;
     padding-bottom: 400px;
     background-color: grey;
@@ -7,16 +7,12 @@
 }
 
 #margin-a-b {
-    margin-top: 400px;
-    margin-bottom: 500px;
+    margin-top: 200px;
+    margin-bottom: 300px;
 }
+
 #margin-con {
-    margin-top: 400px;
-    margin-bottom: 500px;
-}
-
-{
-    background-color: grey;
-
+    margin-top: 100px;
+    margin-bottom: 200px;
 }
 
