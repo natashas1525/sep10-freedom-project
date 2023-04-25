@@ -1,5 +1,5 @@
 
-#title {
+.title {
     padding-top: 400px;
     padding-bottom: 400px;
     background-color: grey;
@@ -11,7 +11,7 @@
     margin-bottom: 300px;
 }
 
-#margin-con {
+.margin-con {
     margin-top: 100px;
     margin-bottom: 200px;
 }
