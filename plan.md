@@ -12,6 +12,10 @@ wed 5 [today]
         - A59FC5
         - 93448C
         - 5D3B43
+        - f5f2f0
+        {for titles}
+        - 990055
+        - 669900
 
     [componets-(1)]
         - nav bar
