@@ -7,11 +7,8 @@ wed 5 [today]
         - [for body p] <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" [css] rel="stylesheet"> font-family: 'Delius', cursive;
 
     [colors-(5)]
-        - F1F0EC
-        - 8E7C80
-        - A59FC5
-        - 93448C
-        - 5D3B43
+        - e2aa64
+        - a47b8e
         - f5f2f0
         {for titles}
         - 990055
