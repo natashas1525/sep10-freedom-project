@@ -1,7 +1,7 @@
 
 .title {
-    padding-top: 400px;
-    padding-bottom: 400px;
+    padding-top: 300px;
+    padding-bottom: 300px;
     background-color: #e2aa64;
     text-align: right;
 }
@@ -21,12 +21,15 @@
 }
 
 h3 {
-
+    font-color: #a47b8e;
 }
 .animate__animated.animate__fadeInUp.animate__repeat-2 {
     --animate-duration: 1.5s;
     --animate-repeat: 0.5;
     text-align: center;
+    background-color: #f5f2f0;
+    padding-top: 50px;
+    padding-bottom: 50px;
   }
   .grow {
     opacity: 0.50;
