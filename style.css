@@ -24,3 +24,7 @@ h3 {
     --animate-repeat: 0.5;
     text-align: center;
   }
+  .grow {
+    opacity: 0.50;
+    font-size: 100 rem;
+    }
