@@ -7,12 +7,20 @@
 }
 
 .margin-a-b {
-    margin-top: 300px;
-    margin-bottom: 300px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .margin-con {
-    margin-top: 300px;
+    margin-top: 200px;
     margin-bottom: 200px;
 }
 
+h3 {
+
+}
+.animate__animated.animate__fadeInUp.animate__repeat-2 {
+    --animate-duration: 1.5s;
+    --animate-repeat: 0.5;
+    text-align: center;
+  }
